@@ -219,7 +219,7 @@ Data years   : 2000–2025 (IMD .GRD binary format)
 |---------|-------------------|---------------|
 | Approach | Rule-based NWP | Deep Learning (ConvLSTM/LSTM) |
 | Data sources | 1–3 sources | 7+ Indian national sources |
-| Forecast accuracy | ~2–3°C RMSE | **1.14–1.42°C RMSE ✅** |
+| Forecast accuracy | ~2–3°C RMSE | **1.14–1.42°C RMSE ** |
 | Heatwave detection | Threshold-based | **AI-powered (F1=0.45)** |
 | Forecast horizon | 3–5 days | **7 days (stable)** |
 | India-specific data | Partial | **100% Indian data** |
